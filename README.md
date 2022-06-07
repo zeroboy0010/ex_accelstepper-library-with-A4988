@@ -5,6 +5,6 @@
 
 
 <picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/zeroboy0010/ex-accelStepper_with_L298N/master/Screenshot%20(23).png">
-  <img alt="Shows an illustrated sun in light color mode and a moon with stars in dark color mode." src="https://raw.githubusercontent.com/zeroboy0010/ex-accelStepper_with_L298N/master/Screenshot%20(23).png">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/zeroboy0010/ex_accelstepper-library-with-A4988/blob/master/Screenshot%20(24).png">
+  <img alt="Shows an illustrated sun in light color mode and a moon with stars in dark color mode." src="https://github.com/zeroboy0010/ex_accelstepper-library-with-A4988/blob/master/Screenshot%20(24).png">
 </picture>
